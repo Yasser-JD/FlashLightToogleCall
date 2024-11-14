@@ -1,0 +1,31 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Flashlight Control"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"/>
+
+    <androidx.appcompat.widget.SwitchCompat
+        android:id="@+id/switchFlashlight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enable Flashlight on Call     "
+        android:layout_centerInParent="true"/>
+
+    <Button
+        android:id="@+id/disableBatteryOptimizationsButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Disable Battery Optimizations"
+        android:layout_below="@id/switchFlashlight"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>
