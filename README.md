@@ -64,10 +64,10 @@ The **Flashlight Toggle App** is an Android application that enhances user exper
 ## **Screenshots**  
 | Screen                 | Description                                              |  
 |------------------------|----------------------------------------------------------|  
-| ![Permission 1](assets/camera_permission) | **Camera Permission Request** on first launch.    |  
-| ![Permission 2](assets/phone_permission) | **Phone Call Permission Request** for incoming calls. |  
-| ![Main Interface](assets/main_interface) | Main interface with toggle switch and battery optimization button. |  
-| ![Implementation](assets/implementation) | The Implementation Video and How it works |  
+| ![Permission 1](assets/camera_permission.jpg) | **Camera Permission Request** on first launch.    |  
+| ![Permission 2](assets/phone_permission.jpg) | **Phone Call Permission Request** for incoming calls. |  
+| ![Main Interface](assets/main_interface.jpg) | Main interface with toggle switch and battery optimization button. |  
+| ![Implementation](assets/implementation.mp4) | The Implementation Video and How it works |  
 
 
 ---
