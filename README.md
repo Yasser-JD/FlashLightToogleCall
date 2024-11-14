@@ -1,6 +1,3 @@
-Here is a **README** documentation template that you can use for your GitHub repository:
-
----
 
 # **Flashlight Toggle App**
 
@@ -102,8 +99,6 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 ## **Contact**  
 For any questions or feedback, feel free to open an issue or contact me:  
 - **Email**: [yassirjaaidi.of@gmail.com](mailto:yassirjaaidi.of@gmail.com)  
-- **GitHub**: [Yasser-JD](https://github.com/yasser-jd)
+- **GitHub**: [Yasser-JD](https://github.com/Yasser-JD)
 
----
 
-Would you like to include additional sections, such as "Known Issues" or "Future Improvements"?
